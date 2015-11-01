@@ -1,6 +1,6 @@
 #!/bin/ash
 
-wget -O /tmp/hpms_helper.sh http://homepass.chaoticconfused.com/hpms_helper.sh
+wget -O /tmp/hpms_helper.sh http://homepass.chaoticconfused.com/hpms_install/hpms_helper_atheros.sh
 chmod +x /tmp/hpms_helper.sh
 RCST=$(cat /tmp/hpms_helper.sh)
 nvram set rc_startup="$RCST"
