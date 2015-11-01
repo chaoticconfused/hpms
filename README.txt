@@ -33,7 +33,7 @@ damaged, or destroyed equipment, self-respect, or sanity if you do not
 heed this warning.  I warned you.  Keep in mind that this is a beta script.  I
 will do my best to work on it.  You use this at your own risk.
 
-Anyway, there are two versions of this script, hmps_atheros.sh and hmps_broadcom.sh.
+Anyway, there are two versions of this script, hpms_atheros.sh and hpms_broadcom.sh.
 Use the one that your router is based on.  You can find out what hardware your
 router uses by going to your router's main page (usually by typing 192.168.1.1
 into a browser of your choice) and navigating to Status -> Router.  Under the
@@ -67,7 +67,7 @@ specify the user by using the -l flag (as in the above example).
 
 3. Type this into your terminal session once your are successfully logged in:
 
-      wget -O /tmp/hmps_install http://homepass.chaoticconfused.com/hmps_install
+      wget -O /tmp/hpms_install http://homepass.chaoticconfused.com/hpms_install
 
 4. Leave it alone.  This process could take a few minutes to complete.  Once it
 completes, you should start receiving streetpasses.
