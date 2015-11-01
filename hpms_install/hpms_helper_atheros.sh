@@ -1,6 +1,6 @@
 #!/bin/ash
 
-sleep 10s
+sleep 20s
 
 rm /tmp/hpms.sh
 rm /tmp/prime.macs
