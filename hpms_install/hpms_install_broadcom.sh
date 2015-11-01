@@ -9,4 +9,4 @@ nvram commit
 stopservice cron
 startservice cron
 
-./tmp/hpms_helper.sh
+/tmp/hpms_helper.sh

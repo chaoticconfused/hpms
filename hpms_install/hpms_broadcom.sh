@@ -35,7 +35,7 @@ FILE=/tmp/prime.macs                             # replace with file to read
 NUM=$(wc -l < ${FILE})                              # count number of lines
 RAND=$(tr -cd 0-9 </dev/urandom | head -c 3)        # generate random number
 X=$(( $RAND % $NUM + 1 ))                           # bring RAND into range 1 to NUM
-MAC=$(sed -n ${X}p ${FILE})                         # random MAC from homepass.macs
+MAC=$(sed -n ${X}p ${FILE})                         # random MAC from prime.macs
 
 nvram set wl0.1_hwaddr=$MAC                         # assign MAC to ath0.1
 nvram set def_whwaddr=$MAC                          # all 3 statements seem
