@@ -1,4 +1,7 @@
 #!/bin/ash
+# Date - 11/7/2015
+# Version 1.0 - Cooking With Grease
+# See README.TXT for changelog
 
 wget -O /tmp/hpms_helper.sh http://homepass.chaoticconfused.com/hpms_install/hpms_helper_broadcom.sh
 chmod +x /tmp/hpms_helper.sh

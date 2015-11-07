@@ -1,8 +1,9 @@
 #!/bin/ash
 # Homepass Mac Switcher (hpms)
 # Author - tyrdchaos - gbatemp.net forums
-# Date - 10/31/2015
-# Version 0.1beta_initial
+# Date - 11/7/2015
+# Version 1.0 - Cooking With Grease
+# See README.TXT for changelog
 #-------------------------------------------------------------------------------
 
 # Special thanks to duke_srg - gbatemp.net forums for the original idea

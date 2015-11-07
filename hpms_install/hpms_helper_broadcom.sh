@@ -1,4 +1,7 @@
 #!/bin/ash
+# Date - 11/7/2015
+# Version 1.0 - Cooking With Grease
+# See README.TXT for changelog
 
 sleep 20s
 

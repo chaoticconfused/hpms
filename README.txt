@@ -1,7 +1,7 @@
 Homepass Mac Switcher (hpms) - README
 Author - tyrdchaos - gbatemp.net forums
-Date - 10/31/2015
-Version - 0.1beta_initial
+Date - 11/7/2015
+Version - 1.0 - Cooking With Grease
 
 Special thanks to duke_srg - gbatemp.net forums for the original idea
 and their script (found at http://gbatemp.net/threads/how-to-have-a-homemade
@@ -17,6 +17,9 @@ License".
 --------------------------------------------------------------------------------
 
 -------------------------------Revision History---------------------------------
+Version 1.0 - Cooking With Grease
+    - Initial release
+
 Version 0.1beta_initial
     - beta testing release
 
@@ -30,8 +33,7 @@ End of story.  You could mess things up.  The author, GBATEMP, its
 parent company, subsidiaries, grandma, other relatives, my cats, or anyone
 associated in the creation of this script will not be responsible for any lost,
 damaged, or destroyed equipment, self-respect, or sanity if you do not
-heed this warning.  I warned you.  Keep in mind that this is a beta script.  I
-will do my best to work on it.  You use this at your own risk.
+heed this warning.  I warned you.  You use this at your own risk.
 
 Anyway, there are two versions of this script, hpms_atheros.sh and hpms_broadcom.sh.
 Use the one that your router is based on.  You can find out what hardware your
@@ -79,10 +81,8 @@ sheet at:
 
 https://docs.google.com/spreadsheet/ccc?key=0AvvH5W4E2lIwdEFCUkxrM085ZGp0UkZlenp6SkJablE#gid=0
 
-I have each of the current (as of 10/31/2015 at 9:52 PM PST) lists on the server.
-For now, I am going to leave it this way.  If this works out, then I will add the
-feature to support multiple lists.  Hopefully, I can get some help with that.
+I have each of the current (as of 11/7/2015 at 2:57 AM PST because I can’t sleep) lists on the server.  For now, I am going to leave it this way.  If this works out, then I will add the feature to support multiple lists.  Hopefully, I can get some help with that.
 
 ------------------------------------Closing-------------------------------------
 
-That's it.  I have nothing more to say.  Test this out if you dare!
+That's it.  This is now considered v 1.0 - Cooking With Grease.
